@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Cybernetically enhanced cloud deployments.",
+  "author": "Michael Edelman <mike.edelman@gmail.com>",
+  "maintainers": [],
+  "homepage": "https://get.svelteup.today",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetSvelteUp/SvelteUp.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GetSvelteUp/SvelteUp/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "turbo": {}
+}
